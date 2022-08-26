@@ -38,6 +38,7 @@
  
  ![image](/images/Photo%20Conversion.gif)
  ![image](/images/IndexPage.png)
+ ![image](/images/Index.gif)
  
  ## Story #5
  
