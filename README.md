@@ -34,7 +34,7 @@
  
  ## Story #4
  
- For my next task was my most difficult one yet where I needed to convert my photo into a byte and then as well use this method to allow my image to display in my index page.
+ For my next task was my most difficult one yet where I needed to convert my photo into a byte and then as well use this method to allow my image to display in my index page.(Here is also the format of my Index Pages HTML layout along with Razor Syntax to gather the models info.)
  
  ![image](/images/Photo%20Conversion.gif)
  ![image](/images/IndexPage.png)
