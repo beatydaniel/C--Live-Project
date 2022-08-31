@@ -3,7 +3,7 @@
  C# Live Project
  
 # Introduction:<br>
- A two week sprint working on a MVC Web Application in C# working together as a team to build a website for theater plays. I was in charge with creating a Cast Members Pages and model as well as Creating a Casting Director role that can add or remove a cast member. During the sprint we utilized version control and held daily stand ups and worked as a team using Azure DevOps. Gained a better understanding in how to work on a project with multiple people and making sure no conflicts arise within the project.
+ A two week sprint working on a MVC Web Application in C# working together as a team to build a website for theater plays. I was in charge of creating a Cast Members Pages and model as well as Creating a Casting Director role that can add or remove a cast member. During the sprint we utilized version control and held daily stand ups and worked as a team using Azure DevOps. Gained a better understanding in how to work on a project with multiple people and making sure no conflicts arise within the project.
  
  ## Story #1
  
